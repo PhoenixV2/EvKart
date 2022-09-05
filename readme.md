@@ -1,1 +1,1 @@
-stuff
+Single embedded controller for an electric go-kart. It's massively overloaded and responsible for monitoring the batteries (pretending to be a BMS) as well as being the speed control for motor output
